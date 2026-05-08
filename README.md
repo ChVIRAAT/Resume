@@ -48,8 +48,7 @@ streamlit run app.py
 
 - `app.py`: The main entry point containing the Streamlit UI and custom styling.
 - `main.py`: The core logic for NLP-based resume analysis and scoring.
-- `resume.txt`: Sample resume file for testing.
-- `job.txt`: Sample job description file for testing.
+
 
 ## 🔮 Future Enhancements
 - [ ] Integration with OpenRouter/OpenAI for advanced resume rewriting.
