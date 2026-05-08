@@ -1,0 +1,43 @@
+Software Engineer Intern – Frontend Development
+
+Company: TechNova Solutions Location: Bangalore, India Experience: Fresher / Internship Employment Type: Full-Time
+
+About the Role
+
+TechNova Solutions is looking for a passionate Frontend Software Engineer Intern who can build modern, responsive, and user-friendly web applications. The ideal candidate should have strong problem-solving abilities, good communication skills, and hands-on experience with frontend technologies.
+
+Key Responsibilities
+Develop responsive and scalable web interfaces using React.js
+Collaborate with backend developers, UI/UX designers, and product teams
+Write clean, reusable, and maintainable code
+Optimize application performance and improve user experience
+Debug frontend issues and fix bugs efficiently
+Participate in code reviews and agile team discussions
+Integrate REST APIs into frontend applications
+Follow Git workflows and version control best practices
+Required Skills
+Technical Skills
+Strong knowledge of HTML5, CSS3, JavaScript (ES6+)
+Familiarity with React.js and component-based architecture
+Understanding of responsive web design principles
+Basic understanding of REST APIs and JSON
+Knowledge of Git and GitHub
+Basic problem-solving and debugging skills
+Soft Skills
+Good communication skills
+Team collaboration and adaptability
+Time management
+Critical thinking and analytical mindset
+Willingness to learn new technologies
+Preferred Qualifications
+Experience building personal or academic projects
+Familiarity with Tailwind CSS or Bootstrap
+Understanding of deployment platforms like Vercel or Netlify
+Participation in hackathons or coding competitions
+Education Requirements
+Pursuing Bachelor’s degree in Computer Science, Information Science, or related field
+Good academic performance preferred
+Bonus Points
+Portfolio website or GitHub profile
+Internship or freelance experience
+Open-source contributions
